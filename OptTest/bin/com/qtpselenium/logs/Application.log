@@ -1,0 +1,124 @@
+18/11/2013 16:51:02 devpinoyLogger Hello
+18/11/2013 16:51:02 devpinoyLogger Properties loaded. Starting testing
+18/11/2013 16:51:02 devpinoyLogger Intialize Suite xlsx
+18/11/2013 16:51:03 devpinoyLogger ContactUs -- N
+18/11/2013 16:51:03 devpinoyLogger SoftwareTesting -- Y
+18/11/2013 16:51:03 devpinoyLogger ******Executing the Suite******SoftwareTesting
+18/11/2013 16:51:03 devpinoyLogger Links Verification -- Y
+18/11/2013 16:51:03 devpinoyLogger Executing the test case -> Links Verification
+18/11/2013 16:51:03 devpinoyLogger Iteration number 1
+18/11/2013 16:51:03 devpinoyLogger openBrowser
+18/11/2013 16:51:03 devpinoyLogger Opening browser
+18/11/2013 16:51:04 devpinoyLogger PASS
+18/11/2013 16:51:04 devpinoyLogger navigate
+18/11/2013 16:51:04 devpinoyLogger Navigating to URL
+18/11/2013 16:51:25 devpinoyLogger PASS
+18/11/2013 16:51:25 devpinoyLogger mouseHover
+18/11/2013 16:51:25 devpinoyLogger Mouse Hover
+18/11/2013 16:51:25 devpinoyLogger FAIL -- Not able to hover mouse
+18/11/2013 16:51:25 devpinoyLogger taking screen shot according to config
+18/11/2013 16:51:35 devpinoyLogger clickButton
+18/11/2013 16:51:35 devpinoyLogger Clicking on Button
+18/11/2013 16:51:37 devpinoyLogger FAIL -- Not able to click on ButtonThis WebElement is not visisble and may not be clicked.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: os.name: 'Linux', os.arch: 'armv7l', os.version: '3.4.0-gd853d22', java.version: '0'
+Driver info: driver.version: unknown
+Command duration or timeout: 1.86 seconds
+Build info: version: '2.33.0', revision: '4e90c97', time: '2013-05-22 15:33:32'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: 1384771943187
+Driver info: org.openqa.selenium.android.AndroidDriver
+Capabilities [{platform=ANDROID, acceptSslCerts=true, javascriptEnabled=true, handlesAlerts=true, browserName=android, browserConnectionEnabled=true, webStorageEnabled=true, rotatable=true, locationContextEnabled=true, applicationCacheEnabled=true, webdriver.remote.sessionid=1384771943187, takesScreenshot=true, version=19}]
+18/11/2013 16:51:37 devpinoyLogger taking screen shot according to config
+18/11/2013 16:51:45 devpinoyLogger verifyTitle
+18/11/2013 16:51:45 devpinoyLogger Verifying title
+18/11/2013 16:51:45 devpinoyLogger FAIL -- Title not verified Software Testing in Vancouver -- Optimus Information: Software Development, QA, BI and Mobile
+18/11/2013 16:51:45 devpinoyLogger taking screen shot according to config
+18/11/2013 16:51:51 devpinoyLogger clickLink
+18/11/2013 16:51:51 devpinoyLogger Clicking a link 
+18/11/2013 16:52:12 devpinoyLogger FAIL -- Not able to click on linkCould not find element with xpath: //a[@href='http://www.optimusqa.com/services/qa-strategy/']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: os.name: 'Linux', os.arch: 'armv7l', os.version: '3.4.0-gd853d22', java.version: '0'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 20.68 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.33.0', revision: '4e90c97', time: '2013-05-22 15:33:32'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: 1384771943187
+Driver info: org.openqa.selenium.android.AndroidDriver
+Capabilities [{platform=ANDROID, acceptSslCerts=true, javascriptEnabled=true, handlesAlerts=true, browserName=android, browserConnectionEnabled=true, webStorageEnabled=true, rotatable=true, locationContextEnabled=true, applicationCacheEnabled=true, webdriver.remote.sessionid=1384771943187, takesScreenshot=true, version=19}]
+18/11/2013 16:52:12 devpinoyLogger taking screen shot according to config
+18/11/2013 16:52:18 devpinoyLogger verifyTitle
+18/11/2013 16:52:18 devpinoyLogger Verifying title
+18/11/2013 16:52:19 devpinoyLogger FAIL -- Title not verified QA Strategy Service | Optimus QA Consultants -- Optimus Information: Software Development, QA, BI and Mobile
+18/11/2013 16:52:19 devpinoyLogger taking screen shot according to config
+18/11/2013 16:52:25 devpinoyLogger navigateBack
+18/11/2013 16:52:25 devpinoyLogger Navigating to previous page
+18/11/2013 16:52:56 devpinoyLogger PASS
+18/11/2013 16:52:56 devpinoyLogger clickLink
+18/11/2013 16:52:56 devpinoyLogger Clicking a link 
+18/11/2013 16:53:16 devpinoyLogger FAIL -- Not able to click on linkCould not find element with xpath: //a[@href='http://www.optimusqa.com/services/test-planning/']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: os.name: 'Linux', os.arch: 'armv7l', os.version: '3.4.0-gd853d22', java.version: '0'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 20.63 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.33.0', revision: '4e90c97', time: '2013-05-22 15:33:32'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: 1384771943187
+Driver info: org.openqa.selenium.android.AndroidDriver
+Capabilities [{platform=ANDROID, acceptSslCerts=true, javascriptEnabled=true, handlesAlerts=true, browserName=android, browserConnectionEnabled=true, webStorageEnabled=true, rotatable=true, locationContextEnabled=true, applicationCacheEnabled=true, webdriver.remote.sessionid=1384771943187, takesScreenshot=true, version=19}]
+18/11/2013 16:53:16 devpinoyLogger taking screen shot according to config
+18/11/2013 16:53:24 devpinoyLogger verifyTitle
+18/11/2013 16:53:24 devpinoyLogger Verifying title
+18/11/2013 16:53:24 devpinoyLogger FAIL -- Title not verified Software QA Test Planning Services | OptimusQA Consulting -- Optimus Information: Software Development, QA, BI and Mobile
+18/11/2013 16:53:24 devpinoyLogger taking screen shot according to config
+18/11/2013 16:53:31 devpinoyLogger navigateBack
+18/11/2013 16:53:31 devpinoyLogger Navigating to previous page
+18/11/2013 16:54:01 devpinoyLogger PASS
+18/11/2013 16:54:01 devpinoyLogger clickLink
+18/11/2013 16:54:01 devpinoyLogger Clicking a link 
+18/11/2013 16:54:22 devpinoyLogger FAIL -- Not able to click on linkCould not find element with xpath: //a[@href='http://www.optimusqa.com/services/functional-testing/']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: os.name: 'Linux', os.arch: 'armv7l', os.version: '3.4.0-gd853d22', java.version: '0'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 20.70 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.33.0', revision: '4e90c97', time: '2013-05-22 15:33:32'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: 1384771943187
+Driver info: org.openqa.selenium.android.AndroidDriver
+Capabilities [{platform=ANDROID, acceptSslCerts=true, javascriptEnabled=true, handlesAlerts=true, browserName=android, browserConnectionEnabled=true, webStorageEnabled=true, rotatable=true, locationContextEnabled=true, applicationCacheEnabled=true, webdriver.remote.sessionid=1384771943187, takesScreenshot=true, version=19}]
+18/11/2013 16:54:22 devpinoyLogger taking screen shot according to config
+18/11/2013 16:54:29 devpinoyLogger verifyTitle
+18/11/2013 16:54:29 devpinoyLogger Verifying title
+18/11/2013 16:54:29 devpinoyLogger FAIL -- Title not verified Functional Testing Service | Optimus QA Consultants -- Optimus Information: Software Development, QA, BI and Mobile
+18/11/2013 16:54:29 devpinoyLogger taking screen shot according to config
+18/11/2013 16:54:36 devpinoyLogger navigateBack
+18/11/2013 16:54:36 devpinoyLogger Navigating to previous page
+18/11/2013 16:55:06 devpinoyLogger PASS
+18/11/2013 16:55:06 devpinoyLogger clickLink
+18/11/2013 16:55:06 devpinoyLogger Clicking a link 
+18/11/2013 16:55:32 devpinoyLogger FAIL -- Not able to click on linkCould not find element with xpath: //a[@href='http://www.optimusqa.com/services/performance-testing/']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: os.name: 'Linux', os.arch: 'armv7l', os.version: '3.4.0-gd853d22', java.version: '0'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 26.24 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.33.0', revision: '4e90c97', time: '2013-05-22 15:33:32'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_25'
+Session ID: 1384771943187
+Driver info: org.openqa.selenium.android.AndroidDriver
+Capabilities [{platform=ANDROID, acceptSslCerts=true, javascriptEnabled=true, handlesAlerts=true, browserName=android, browserConnectionEnabled=true, webStorageEnabled=true, rotatable=true, locationContextEnabled=true, applicationCacheEnabled=true, webdriver.remote.sessionid=1384771943187, takesScreenshot=true, version=19}]
+18/11/2013 16:55:32 devpinoyLogger taking screen shot according to config
+18/11/2013 16:55:42 devpinoyLogger verifyTitle
+18/11/2013 16:55:42 devpinoyLogger Verifying title
+18/11/2013 16:55:45 devpinoyLogger FAIL -- Title not verified Performance Testing Service | OptimusQA Consulting -- 
+18/11/2013 16:55:45 devpinoyLogger taking screen shot according to config
+18/11/2013 16:55:55 devpinoyLogger closeBrowser
+18/11/2013 16:55:55 devpinoyLogger Closing the browser
+18/11/2013 16:55:55 devpinoyLogger PASS
